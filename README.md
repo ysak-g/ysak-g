@@ -4,6 +4,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 - 🔭 I’m currently working on Backend Development.
 - 🌱 I’m currently learning Python & Flask
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
